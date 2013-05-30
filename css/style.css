@@ -1,0 +1,15 @@
+body{
+	font-size: x-small;
+	background-color: black;
+	color: white;
+}
+
+#center{
+	display: block; 
+	margin-left: auto; 
+    margin-right: auto;
+}
+
+#doc{
+	
+}
