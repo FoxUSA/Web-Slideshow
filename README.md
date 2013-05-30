@@ -9,7 +9,7 @@ How To Use
 Simply put images and dynamic phpfiles into the "kpis" folder.
 
 You can create sub folders of images under the "kpis" folder and access them with the following syntax:
-http://yoururl.com/<path>/kpi.php?folder=<sub folder name>
+http://yoururl.com/PATH/kpi.php?folder=SUB_FOLDER_NAME
 
 Then simply browse to the url above and the script will automatically adjust the image size for you.
 I recomend smaller images for enabled devices. 
